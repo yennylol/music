@@ -1,1 +1,0 @@
-drumkit sync test beat 140bpm
